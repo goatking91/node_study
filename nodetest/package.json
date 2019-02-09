@@ -1,0 +1,25 @@
+{
+  "name": "it.co",
+  "version": "0.0.1",
+  "description": "nodetest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goatking91/nodetest.git"
+  },
+  "keywords": [
+    "aa"
+  ],
+  "author": "goatking",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goatking91/nodetest/issues"
+  },
+  "homepage": "https://github.com/goatking91/nodetest#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
